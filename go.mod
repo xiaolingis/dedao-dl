@@ -3,7 +3,7 @@ module github.com/yann0917/dedao-dl
 go 1.15
 
 require (
-	github.com/cheggaaa/pb/v3 v3.0.7
+	github.com/cheggaaa/pb/v3 v3.0.8
 	github.com/chromedp/cdproto v0.0.0-20210323015217-0942afbea50e
 	github.com/chromedp/chromedp v0.6.10
 	github.com/go-rod/rod v0.97.2
